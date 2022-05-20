@@ -1,2 +1,2 @@
-# 3dsemesterMIPT
+# Hometasks MIPT
 hws
